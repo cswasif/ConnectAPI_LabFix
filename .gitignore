@@ -1,14 +1,3 @@
-# Ignore everything
-*
-
-# But keep these files
-!.gitignore
-!main.py
-!connect.json
-!vercel.json
-!requirements.txt
-!README.md
-
 # Python
 __pycache__/
 *.py[cod]
